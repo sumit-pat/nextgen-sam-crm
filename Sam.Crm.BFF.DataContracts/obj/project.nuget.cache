@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIkJWSCNhqN2xFW2Gd71MkiWAIIcXXi9GBJ4qbDdQfn4sa4kiAdt5+CBeD2tPH9E5XCd/mIfOxZ/W3iCEMlpXw==",
+  "dgSpecHash": "XVc9xjHPEH7Ime3cOYlbBIYhdWYA74ZWgo11J6blPoGwNWUjyOxoMTTHub+Zl18Tphoo1oLAPhIQfXZ6wjCd1A==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.DataContracts\\Sam.Crm.BFF.DataContracts.csproj",
+  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.DataContracts\\Sam.Crm.BFF.DataContracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.Core\\Sam.Crm.BFF.Core.csproj",
+      "projectUniqueName": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.Core\\Sam.Crm.BFF.Core.csproj",
       "projectName": "Sam.Crm.BFF.Core",
-      "projectPath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.Core\\Sam.Crm.BFF.Core.csproj",
+      "projectPath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.Core\\Sam.Crm.BFF.Core.csproj",
       "packagesPath": "C:\\Users\\Sumit Patle\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.Core\\obj\\",
+      "outputPath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

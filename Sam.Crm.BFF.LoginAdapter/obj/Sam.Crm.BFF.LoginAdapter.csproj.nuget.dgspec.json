@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj": {}
+    "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj": {
+    "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
+        "projectUniqueName": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
         "projectName": "Sam.Crm.BFF.LoginAdapter",
-        "projectPath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
+        "projectPath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
         "packagesPath": "C:\\Users\\Sumit Patle\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\obj\\",
+        "outputPath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

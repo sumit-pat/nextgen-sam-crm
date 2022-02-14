@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O31OMWTqiPpdt8O41mkyNVZsH51DMHfJsjbSg7Q9bgMZC/j78QTiGkV2dG9sM8Pqa9rt9vhp3XK/4ZpRSzsXEA==",
+  "dgSpecHash": "0P9hBY7w4//yIGESj+jqSWwM0dWLrfA0mwLzlDOJB8ZlpseO2M1sH6KOSLKGcy++fSxzCZSjUIuGQ/0jWv+Nvw==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.Common\\Sam.Crm.BFF.Common.csproj",
+  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.Common\\Sam.Crm.BFF.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

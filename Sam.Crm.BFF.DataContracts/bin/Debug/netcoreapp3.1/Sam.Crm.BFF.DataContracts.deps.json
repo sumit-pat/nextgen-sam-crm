@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sam.Crm.BFF.DataContracts/1.0.0": {
+        "runtime": {
+          "Sam.Crm.BFF.DataContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sam.Crm.BFF.DataContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hT+YwcomipVkRkF5SV9YtAWgTZGO3oNzK/kPgdMNcutMfyQ31pfdm+pgM5tE18er7ZcrQoGBWcBTYmrB4qQIHQ==",
+  "dgSpecHash": "j92j+Ug2VTFN/PC79rmvVqetIC7xBdK0ePvj9FHKve0BlErei2t+5/zRs3FLelqZa7YuDBMatbWhdf4yULsc7g==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\sam.crm\\Sam.Crm.BFF.Web\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
+  "projectFilePath": "D:\\WorkSpace_Projects_and_All\\nextgen-sam-crm\\Sam.Crm.BFF.LoginAdapter\\Sam.Crm.BFF.LoginAdapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
