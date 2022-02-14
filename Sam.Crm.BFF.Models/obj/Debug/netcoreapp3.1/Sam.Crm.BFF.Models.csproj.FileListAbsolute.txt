@@ -1,9 +1,0 @@
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\bin\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.deps.json
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\bin\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.dll
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\bin\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.pdb
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.csproj.AssemblyReference.cache
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.AssemblyInfoInputs.cache
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.AssemblyInfo.cs
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.csproj.CoreCompileInputs.cache
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.dll
-D:\WorkSpace_Projects_and_All\nextgen-sam-crm\Sam.Crm.BFF.Models\obj\Debug\netcoreapp3.1\Sam.Crm.BFF.Models.pdb
